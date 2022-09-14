@@ -1,2 +1,0 @@
-# Slope
-its slope
